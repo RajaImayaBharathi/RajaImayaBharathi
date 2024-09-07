@@ -1,48 +1,51 @@
-<div style="margin-top: 20px; display: flex; align-items: center; justify-content: center;" id="about">
-  <div>
-    <div style="color: white; font-family: 'HomeSection'; display: flex; align-items: center;">
-      <div>
-        <div style="padding-bottom: 10px; padding-top: 8px; padding-left: 36px; display: flex; color: white; font-family: 'Navbar';">
-          <a href="https://www.linkedin.com/in/raja-imaya-bharathi" target="_blank" rel="noopener noreferrer">
-            LinkedIn&nbsp;.&nbsp;
-          </a>
-          <a href="https://github.com/RajaImayaBharathi" target="_blank" rel="noopener noreferrer">
-            GitHub&nbsp;.&nbsp;
-          </a>
-          <a href="https://leetcode.com/u/rajaimayabharathi/" target="_blank" rel="noopener noreferrer">
-            LeetCode&nbsp;&nbsp;
-          </a>
-        </div>
-      </div>
-    </div>
-    <div style="color: white; margin-top: 20px; padding-left: 40px;">
-      Hello, I'm Raja Imaya Bharathi, a <span style="font-weight: bold;">full stack developer</span> with a knack for building robust
-      backends and pixel-perfect, sleek frontends. I always love to find and deliver the best solutions and tackle unresolved problems.
-      Currently, <span style="font-weight: bold;">I lead Metaphor Hub</span>, where we contribute to <span style="font-weight: bold;">open-source projects</span>
-      and create innovative solutions for <span style="font-weight: bold;">societal challenges</span>.
-    </div>
-    <div style="color: white; margin-top: 32px; padding-left: 40px;">
-      I've led my team to <span style="font-weight: bold;">national finals</span> and developed over 10 progressive web apps and 
-      <span style="font-weight: bold;">60+ projects</span> to help businesses streamline management, boost efficiency, and automate
-      processes, showcasing our dedication and expertise over <span style="font-weight: bold;">2 years</span>.
-    </div>
-    <div style="color: white; margin-top: 40px; padding-left: 40px;">
-      Here are the list of technologies I'm familiar with:
-      <div style="display: flex; margin-top: 16px; margin-bottom: 16px;">
-        <div style="padding-left: 8px;">
-          <div style="display: flex; align-items: center;">&#9658; Java</div>
-          <div style="display: flex; align-items: center;">&#9658; C</div>
-          <div style="display: flex; align-items: center;">&#9658; Python</div>
-          <div style="display: flex; align-items: center;">&#9658; C++</div>
-        </div>
-        <div style="padding-left: 80px;">
-          <div style="display: flex; align-items: center;">&#9658; JavaScript</div>
-          <div style="display: flex; align-items: center;">&#9658; React</div>
-          <div style="display: flex; align-items: center;">&#9658; NodeJS</div>
-          <div style="display: flex; align-items: center;">&#9658; NextJS</div>
-        </div>
-      </div>
-      <button style="margin-top: 20px; padding: 10px 20px; background-color: #3b82f6; color: white; border: none; cursor: pointer;">View full Resume</button>
-    </div>
-  </div>
-</div>
+<h1 align="center">Hi there, I'm Raja Imaya Bharathi 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/RajaImayaBharathi"><img src="https://komarev.com/ghpvc/?username=RajaImayaBharathi&color=blue&style=flat-square" alt="Profile views" /></a>
+  <a href="https://github.com/RajaImayaBharathi?tab=followers"><img src="https://img.shields.io/github/followers/RajaImayaBharathi?label=Followers&style=social" alt="GitHub followers" /></a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajaImayaBharathi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaImayaBharathi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 Contributions
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaImayaBharathi&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rajaimayabharathi?ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 📫 Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/raja-imaya-bharathi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://github.com/RajaImayaBharathi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://leetcode.com/u/rajaimayabharathi/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-yellow?style=flat-square&logo=LeetCode&logoColor=white"></a>
+</p>
