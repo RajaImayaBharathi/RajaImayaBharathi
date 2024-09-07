@@ -22,7 +22,7 @@
 
 
 ### 🏆 LeetCode Stats
-<p align="center">
+<p >
   <img src="https://leetcard.jacoblin.cool/rajaimayabharathi?ext=heatmap" alt="LeetCode Stats" />
 </p>
 
