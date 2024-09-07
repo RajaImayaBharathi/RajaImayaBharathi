@@ -20,19 +20,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajaImayaBharathi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaImayaBharathi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🔥 Contributions
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaImayaBharathi&theme=radical" alt="GitHub Streak" />
-</p>
----
 
 ### 🏆 LeetCode Stats
 <p align="center">
