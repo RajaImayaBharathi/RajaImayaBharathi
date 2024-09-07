@@ -45,7 +45,4 @@
       <button style="margin-top: 20px; padding: 10px 20px; background-color: #3b82f6; color: white; border: none; cursor: pointer;">View full Resume</button>
     </div>
   </div>
-  <div style="margin-left: 80px; overflow: hidden;">
-    <img src="HomeImg.png" alt="Profile Image" style="width: 200px;"/>
-  </div>
 </div>
