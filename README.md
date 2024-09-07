@@ -2,10 +2,6 @@
   <div>
     <div style="color: white; font-family: 'HomeSection'; display: flex; align-items: center;">
       <div>
-        <header style="display: flex; align-items: center;">
-          <p style="font-size: 20px;"><span>02</span>.About Me</p>
-          <div style="margin-left: 16px; border-bottom: 2px solid white; width: 100px;"></div>
-        </header>
         <div style="padding-bottom: 10px; padding-top: 8px; padding-left: 36px; display: flex; color: white; font-family: 'Navbar';">
           <a href="https://www.linkedin.com/in/raja-imaya-bharathi" target="_blank" rel="noopener noreferrer">
             LinkedIn&nbsp;.&nbsp;
