@@ -1,5 +1,14 @@
 <h1 align="center">Hi there, I'm Raja Imaya Bharathi 👋</h1>
 
+
+👋 About Me
+
+Hi, I'm Raja Imaya Bharathi, currently pursuing a B.Tech in Information Technology (3rd year) at Sri Shakthi Institute of Engineering and Technology. I'm a passionate full-stack web developer with over 3 years of freelancing experience, specializing in building resilient, scalable, and user-friendly applications.
+
+In addition to my freelance work, I'm the Software Developer Head at OPM Corporation, where I lead a team of developers, successfully managing and delivering multiple projects under tight deadlines.
+
+I also have strong knowledge in cloud technologies and cloud administration, which helps me design, deploy, and manage cloud-based solutions that are scalable and secure. I'm always eager to learn new technologies, solve challenging problems, and contribute to impactful projects.
+
 <p align="center">
   <a href="https://github.com/RajaImayaBharathi"><img src="https://komarev.com/ghpvc/?username=RajaImayaBharathi&color=blue&style=flat-square" alt="Profile views" /></a>
   <a href="https://github.com/RajaImayaBharathi?tab=followers"><img src="https://img.shields.io/github/followers/RajaImayaBharathi?label=Followers&style=social" alt="GitHub followers" /></a>
