@@ -30,10 +30,7 @@ I also have strong knowledge in cloud technologies and cloud administration, whi
 </p>
 
 
-### 🏆 LeetCode Stats
-<p >
-  <img src="https://leetcard.jacoblin.cool/rajaimayabharathi?ext=heatmap" alt="LeetCode Stats" />
-</p>
+
 
 ---
 
