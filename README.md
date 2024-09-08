@@ -9,6 +9,8 @@ In addition to my freelance work, I'm the Software Developer Head at OPM Corpora
 
 I also have strong knowledge in cloud technologies and cloud administration, which helps me design, deploy, and manage cloud-based solutions that are scalable and secure. I'm always eager to learn new technologies, solve challenging problems, and contribute to impactful projects.
 
+Portfolio: [Click here](https://rajaimayabharathi.github.io/me/)
+
 <p align="center">
   <a href="https://github.com/RajaImayaBharathi"><img src="https://komarev.com/ghpvc/?username=RajaImayaBharathi&color=blue&style=flat-square" alt="Profile views" /></a>
   <a href="https://github.com/RajaImayaBharathi?tab=followers"><img src="https://img.shields.io/github/followers/RajaImayaBharathi?label=Followers&style=social" alt="GitHub followers" /></a>
