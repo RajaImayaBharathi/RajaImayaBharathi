@@ -7,8 +7,6 @@ Hi, I'm Raja Imaya Bharathi, currently pursuing a B.Tech in Information Technolo
 
 In addition to my freelance work, I'm the Software Developer Head at OPM Corporation, where I lead a team of developers, successfully managing and delivering multiple projects under tight deadlines.
 
-Im a quick learner and love to do both smart and hard work
-
 I also have strong knowledge in cloud technologies and cloud administration, which helps me design, deploy, and manage cloud-based solutions that are scalable and secure. I'm always eager to learn new technologies, solve challenging problems, and contribute to impactful projects.
 
 Portfolio: [Click here](https://rajaimayabharathi.github.io/me/)
