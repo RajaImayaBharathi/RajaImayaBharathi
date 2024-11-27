@@ -39,6 +39,5 @@ Portfolio: [Click here](https://rajaimayabharathi.github.io/me/)
 ### 📫 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/raja-imaya-bharathi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="https://github.com/RajaImayaBharathi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://leetcode.com/u/rajaimayabharathi/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-yellow?style=flat-square&logo=LeetCode&logoColor=white"></a>
 </p>
