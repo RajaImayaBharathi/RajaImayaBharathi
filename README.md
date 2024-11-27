@@ -43,4 +43,3 @@ Portfolio: [Click here](https://rajaimayabharathi.github.io/me/)
 </p>
 
 ---
-![badge_name](https://example.com/badge_url)
