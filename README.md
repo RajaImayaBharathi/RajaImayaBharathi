@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Raja Imaya Bharathi 👋</h1>
 
 
-👋 About Me...
+👋 About Me
 
 Hi, I'm Raja Imaya Bharathi, currently pursuing a B.Tech in Information Technology (3rd year) at Sri Shakthi Institute of Engineering and Technology. I'm a passionate full-stack web developer with over 3 years of freelancing experience, specializing in building resilient, scalable, and user-friendly applications.
 
