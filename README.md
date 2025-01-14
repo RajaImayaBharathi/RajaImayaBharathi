@@ -39,7 +39,7 @@ Portfolio: [Click here](https://rajaimayabharathi.github.io/me/)
 </p>
 
 <h3> DataBases </h3>
-<p align="end">
+<p align="right">
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
