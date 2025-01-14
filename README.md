@@ -4,12 +4,12 @@
 
 👋 About Me
 
-Hi, I'm **Raja Imaya Bharathi**, currently pursuing a **B.Tech in Information Technology (3rd year)** at **Sri Shakthi Institute of Engineering and Technology**.  
-I'm a passionate **full-stack web developer** with over **4 years of freelancing experience** at [Metaphor Hub](https://metaphorhub.com), specializing in building **resilient, scalable, and user-friendly** applications.
+Hi, I'm Raja Imaya Bharathi, currently pursuing a B.Tech in Information Technology (3rd year) at Sri Shakthi Institute of Engineering and Technology.  
+I'm a passionate full-stack web developer with over 4 years of freelancing experience at [Metaphor Hub](https://metaphorhub.com), specializing in building resilient, scalable, and user-friendly applications.
 
-In addition to my freelance work, I'm the **SDE Head** at [OPM Corporation](https://opmcorporation.com), where I **lead a team of developers**, successfully managing the **development, deployment, and maintenance** of the company's core product.
+In addition to my freelance work, I'm the SDE Head at [OPM Corporation](https://opmcorporation.com), where I lead a team of developers, successfully managing the development, deployment, and maintenance of the company's core product.
 
-I also have strong knowledge of **cloud technologies** and **cloud administration**, which helps me design, deploy, and manage **scalable and secure** cloud-based solutions. I'm always eager to **learn new technologies, solve challenging problems, and contribute to impactful projects**.
+I also have strong knowledge of cloud technologies and cloud administration, which helps me design, deploy, and manage **scalable and secure** cloud-based solutions. I'm always eager to learn new technologies, solve challenging problems, and contribute to impactful projects.
 
 
 Portfolio: [Click here](https://raja-imaya-bharathi.vercel.app)
