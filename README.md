@@ -29,6 +29,7 @@ Portfolio: [Click here](https://rajaimayabharathi.github.io/me/)
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
+
 ---
 
 <h3> DataBases </h3>
@@ -38,7 +39,7 @@ Portfolio: [Click here](https://rajaimayabharathi.github.io/me/)
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </p>
----
+
 
 
 
