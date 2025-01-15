@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer @ OPM Corporation</h2>
 
 
-👋 About Mee
+👋 About Me
 
 Hi, I'm Raja Imaya Bharathi, currently pursuing a B.Tech in Information Technology (3rd year) at Sri Shakthi Institute of Engineering and Technology.  
 I'm a passionate full-stack web developer with over 4 years of freelancing experience at [Metaphor Hub](https://metaphorhub.com), specializing in building resilient, scalable, and user-friendly applications.
