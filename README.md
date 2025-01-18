@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Raja Imaya Bharathi 👋</h1>
-<h2 align="center">Software Engineer @ OPM Corporation</h2>
+<h2 align="center">SDE intern @ OPM Corporation</h2>
 
 
 👋 About Me
