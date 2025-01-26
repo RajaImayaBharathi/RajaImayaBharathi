@@ -1,3 +1,8 @@
+
+
+![Github banner](https://github.com/user-attachments/assets/98c4db89-6684-4f88-952f-24c2f9c40e81)
+
+
 <h1 align="center">Hi there, I'm Raja Imaya Bharathi 👋</h1>
 <h2 align="center">SDE intern @ OPM Corporation</h2>
 
