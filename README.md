@@ -35,12 +35,13 @@ Portfolio: [Click here](https://raja-imaya-bharathi.vercel.app)
 <h3> Libraries & Frameworks </h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FusionJS-000000?style=for-the-badge&logoColor=white" alt="FusionJS" />
+  <!-- <img src="https://img.shields.io/badge/FusionJS-000000?style=for-the-badge&logoColor=white" alt="FusionJS" /> -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <!-- <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" /> -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Solid.js-2C4A9F?style=for-the-badge&logo=solid&logoColor=white" alt="Solid.js" />
+  <img src="https://img.shields.io/badge/Passport.js-3E4C5C?style=for-the-badge&logo=passport&logoColor=white" alt="Passport.js" />
+  <!-- <img src="https://img.shields.io/badge/Solid.js-2C4A9F?style=for-the-badge&logo=solid&logoColor=white" alt="Solid.js" /> -->
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
