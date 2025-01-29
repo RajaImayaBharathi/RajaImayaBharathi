@@ -14,7 +14,7 @@ I'm a passionate full-stack web developer with over 4 years of freelancing exper
 
 In addition to my freelance work, I'm the SDE Head at [OPM Corporation](https://opmcorporation.com), where I lead a team of developers, successfully managing the development, deployment, and maintenance of the company's core product.
 
-I also have strong knowledge of cloud technologies and cloud administration, which helps me design, deploy, and manage **scalable and secure** cloud-based solutions. I'm always eager to learn new technologies, solve challenging problems, and contribute to impactful projects
+I also have strong knowledge of cloud technologies and cloud administration, which helps me design, deploy, and manage **scalable and secure** cloud-based solutions. I'm always eager to learn new technologies, solve challenging problems, and contribute to impactful projects.
 
 
 Portfolio: [Click here](https://raja-imaya-bharathi.vercel.app)
