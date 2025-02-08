@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi there, I'm Raja Imaya Bharathi 👋</h1>
-<p align="center">Ex-SDE Team Head @ OPM Corporation | Full-Stack Developer | NASA Space App challange 2024 Global Nominee 🚀 | Smart India Hackathon finalist -2023🏆 | B.Tech Information Technology|</p>
+<p align="center">Ex-SDE Team Head @ OPM Corporation | NASA Space App challange 2024 Global Nominee 🚀 | Smart India Hackathon finalist -2023🏆 | B.Tech Information Technology | Full-Stack Developer</p>
 
 
 👋 About Me.
