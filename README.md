@@ -7,7 +7,7 @@
 <p align="center">Ex-SDE Team Head @ OPM Corporation | NASA Space App challange 2024 Global Nominee 🚀 | Smart India Hackathon finalist -2023🏆 | B.Tech Information Technology | Full-Stack Developer</p>
 
 
-👋 About Me...
+👋 About Me
 
 Hi, I'm Raja Imaya Bharathi, currently pursuing a B.Tech in Information Technology (3rd year) at Sri Shakthi Institute of Engineering and Technology.  
 I'm a passionate full-stack web developer with over 4 years of freelancing experience at [Metaphor Hub](https://metaphorhub.com), specializing in building resilient, scalable, and user-friendly applications.
