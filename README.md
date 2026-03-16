@@ -27,15 +27,25 @@ Before that, I served as **SDE Team Head at OPM Corporation** — another produc
 
 And before all of that — **4+ years of freelance product engineering** at Metaphor Hub, where I built and shipped 15+ full-stack applications for real clients, solo, with zero safety net.
 
-**What I bring to a product team:**
-- 🔧 Backend systems that scale — Node.js, .NET Core, REST APIs, GraphQL, Redis, Kafka, PostgreSQL
-- ⚡ Full-stack delivery — Next.js, React, end-to-end feature ownership
-- ☁️ Cloud infrastructure — Azure (event-driven architecture), AWS, CI/CD pipelines
-- 🌏 Cross-regional stakeholder management — SG, HK, CN, ID
-- 🏢 Proven in product environments — both companies are product-based, not service
+## 🛠 Tech Stack
 
-> 🚀 **NASA Space Apps Challenge 2024 — Global Nominee** (Top 10 worldwide · 57,000+ participants)
-> 🏆 **Smart India Hackathon 2023 — National Finalist** (Top 100 teams across India)
+**Backend & APIs**
+`Node.js` `Express.js` `.NET Core` `FastAPI` `REST APIs` `GraphQL` `Redis` `Apache Kafka` `ORM` `API Security`
+
+**Frontend**
+`React.js` `Next.js` `Redux Toolkit` `Framer Motion` `HTML5` `CSS3`
+
+**Databases**
+`PostgreSQL` `MySQL` `MS SQL Server` `MongoDB` `Firebase`
+
+**Cloud & DevOps**
+`Microsoft Azure` `AWS` `GitHub Actions` `CI/CD` `Git` `Vercel` `Netlify` `Postman`
+
+**Languages**
+`JavaScript (ES2022+)` `TypeScript` `C#` `SQL`
+
+**CS Fundamentals**
+`System Design` `DSA` `OOP` `DBMS` `Performance Optimisation`
 
 ---
 
@@ -56,25 +66,16 @@ And before all of that — **4+ years of freelance product engineering** at Meta
 
 ---
 
-## 🛠 Tech Stack
+**What I bring to a product team:**
+-  Backend systems that scale — Node.js, .NET Core, REST APIs, GraphQL, Redis, Kafka, PostgreSQL
+-  Full-stack delivery — Next.js, React, end-to-end feature ownership
+-  Cloud infrastructure — Azure (event-driven architecture), AWS, CI/CD pipelines
+-  Cross-regional stakeholder management — SG, HK, CN, ID
+-  Proven in product environments — both companies are product-based, not service
 
-**Backend & APIs**
-`Node.js` `Express.js` `.NET Core` `FastAPI` `REST APIs` `GraphQL` `Redis` `Apache Kafka` `ORM` `API Security`
+>  **NASA Space Apps Challenge 2024 — Global Nominee** (Top 10 worldwide · 57,000+ participants)
+>  **Smart India Hackathon 2023 — National Finalist** (Top 100 teams across India)
 
-**Frontend**
-`React.js` `Next.js` `Redux Toolkit` `Framer Motion` `HTML5` `CSS3`
-
-**Databases**
-`PostgreSQL` `MySQL` `MS SQL Server` `MongoDB` `Firebase`
-
-**Cloud & DevOps**
-`Microsoft Azure` `AWS` `GitHub Actions` `CI/CD` `Git` `Vercel` `Netlify` `Postman`
-
-**Languages**
-`JavaScript (ES2022+)` `TypeScript` `C#` `SQL`
-
-**CS Fundamentals**
-`System Design` `DSA` `OOP` `DBMS` `Performance Optimisation`
 
 ---
 
