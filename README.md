@@ -1,8 +1,7 @@
 <h1 align="center">Raja Imaya Bharathi</h1>
 
 <p align="center">
-  <strong>Full Stack Engineer · Backend-Focused · Product Companies</strong><br/>
-  Node.js · Next.js · React · PostgreSQL · Azure · AWS<br/>
+  <strong>Full Stack Engineer · Frontend Craftsmanship · Scalable Backend Systems</strong><br/>
   Building scalable backend systems for multi-market product teams
 </p>
 
@@ -30,22 +29,22 @@ And before all of that — **4+ years of freelance product engineering** at Meta
 ## 🛠 Tech Stack
 
 **Backend & APIs**
-`Node.js` `Express.js` `.NET Core` `FastAPI` `REST APIs` `GraphQL` `Redis` `Apache Kafka` `ORM` `API Security`
+`Node.js` `Express.js` `.NET Core` `REST APIs` `GraphQL` `Redis` `ORM` `API Security`
 
 **Frontend**
 `React.js` `Next.js` `Redux Toolkit` `Framer Motion` `HTML5` `CSS3`
 
 **Databases**
-`PostgreSQL` `MySQL` `MS SQL Server` `MongoDB` `Firebase`
+`MS SQL Server` `PostgreSQL` `MySQL`  `MongoDB` `Firebase`
 
 **Cloud & DevOps**
 `Microsoft Azure` `AWS` `GitHub Actions` `CI/CD` `Git` `Vercel` `Netlify` `Postman`
 
 **Languages**
-`JavaScript (ES2022+)` `TypeScript` `C#` `SQL`
+`JavaScript (ES2022+)` `TypeScript` `Java Core` `C#` `SQL`
 
 **CS Fundamentals**
-`System Design` `DSA` `OOP` `DBMS` `Performance Optimisation`
+`System Design` `DSA` `OOP` `DBMS` `Performance Optimisation` 
 
 ---
 
